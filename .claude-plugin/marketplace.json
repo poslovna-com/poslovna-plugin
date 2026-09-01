@@ -1,6 +1,10 @@
 {
   "name": "poslovna",
-  "owner": { "name": "poslovna.com", "url": "https://poslovna.com" },
+  "description": "The Croatian business registers as an MCP server, with a skill that teaches an agent how to read the answers.",
+  "owner": {
+    "name": "poslovna.com",
+    "url": "https://poslovna.com"
+  },
   "plugins": [
     {
       "source": "./",
