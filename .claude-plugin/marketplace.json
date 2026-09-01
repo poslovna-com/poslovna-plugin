@@ -1,0 +1,11 @@
+{
+  "name": "poslovna",
+  "owner": { "name": "poslovna.com", "url": "https://poslovna.com" },
+  "plugins": [
+    {
+      "source": "./",
+      "name": "poslovna",
+      "description": "Croatian business registers — court register, beneficial owners, filed accounts, tax debt, insolvency, procurement, land registry and the official gazettes."
+    }
+  ]
+}

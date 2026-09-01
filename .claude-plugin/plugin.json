@@ -1,0 +1,16 @@
+{
+  "name": "poslovna",
+  "version": "1.0.0",
+  "description": "Croatian business registers, with the provenance kept attached.",
+  "homepage": "https://poslovna.com",
+  "author": { "name": "poslovna.com", "url": "https://poslovna.com" },
+  "keywords": ["croatia", "kyb", "company-data", "registers", "due-diligence"],
+  "skills": "./skills/",
+  "mcpServers": {
+    "poslovna": {
+      "type": "http",
+      "url": "https://mcp.poslovna.com/mcp",
+      "headers": { "Authorization": "Bearer ${POSLOVNA_API_KEY}" }
+    }
+  }
+}
