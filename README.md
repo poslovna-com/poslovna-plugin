@@ -4,7 +4,7 @@ The Croatian business registers, as an MCP server plus a skill that teaches an a
 the answers.
 
 ```sh
-/plugin marketplace add dlauc/poslovna-plugin
+/plugin marketplace add poslovna-com/poslovna-plugin
 /plugin install poslovna
 ```
 
